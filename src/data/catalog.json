@@ -1,0 +1,24 @@
+{
+  "category": [
+    {
+      "title": "Web Development",
+      "path": "web-dev"
+    },
+    {
+      "title": "App Development",
+      "path": "app-dev"
+    },
+    {
+      "title": "Database",
+      "path": "database"
+    },
+    {
+      "title": "Ai",
+      "path": "ai"
+    },
+    {
+      "title": "Node Js",
+      "path": "node-js"
+    }
+  ]
+}
